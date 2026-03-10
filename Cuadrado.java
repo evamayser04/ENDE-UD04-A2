@@ -7,3 +7,4 @@ public class Cuadrado extends Rectangulo {
 		super(x, y, color, lado, lado);
 	}
 }
+//clase modificada para la rama develop
